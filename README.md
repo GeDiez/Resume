@@ -11,16 +11,24 @@
 - Reactjs (+Redux, +ReactRouter, +hooks) ⚛️
 - React Native 📱
 - Markup (HTML5, css && scss) and stuffs
-- Jest, Enzyme for testing 🐛
+- Bulma CSS
+- Jest, Enzyme, react testing library for testing 🐛
 
 ## Secondary tools
 
 - Ruby on Rails 🔻
 - Nodejs (Knex, Bookshelf, socketio, Express)
-- Webpack to use moder javascript 📦
+- Webpack to use modern javascript 📦
 - web components using stencil as Framework
 - Postgres 🐘
 - Typescript
+
+## BEDU (Bootcamp)
+
+- Teacher at BEDU as JAVASCRIPT Expert, and encourage by share my knowledgment with many students
+
+## Pet Parent hub
+- Created a SPA using react + react router + formikjs to implement an admin and dynamic forms, this project let people in EEUU share their pets for adoption and rescuers can also take control of their organizations
 
 ## Projects at michelada.io
 
