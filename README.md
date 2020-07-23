@@ -5,6 +5,27 @@
 [bagde]: https://badgen.net/badge/Github/GeDiez/:color?icon=github
 [github_url]: https://github.com/GeDiez
 
+## About me
+
+```
+Fullname: Gibran Lopez Morales
+location: Colima, México
+contactos: 
+📲 312 142 39 20
+📨 glm.developer10@gmail.com
+```
+
+## Education
+
+- Software Engineer: studied at Instituto Tecnológico de Oaxaca
+- Languages: Español, English(mid)
+
+## Work experience
+- Kore Teconolgía (6 months): A start up located in Oaxaca, I was working as developer using golang as main language going through the front to the backend, I built a web application which calculates and shows stats about history data (dashboard online)
+BEDU (Bootcamp 3 months): Worked as Teacher at BEDU as JAVASCRIPT Expert, and encourage by share my knowledgment with many students
+- Pet Parent hub (6 months): Created a SPA using react + react router + formikjs to implement an admin and dynamic forms, this project let people in EEUU share their pets for adoption and rescuers can also take control of their organizations
+- michelada.io (3+ years): A consultory located in Colima, i work here since 3+ years ago and I have learnt a lot of thing about JS+React, making awesomes web apps focused in the user experiences and dinamcy content, i have been in many proyects here so im going to emplain more about them later. 
+
 ## Primary tech stack 🎉 🎉 🎉
 
 - Javascript ES6, ES7
@@ -23,14 +44,7 @@
 - Postgres 🐘
 - Typescript
 
-## BEDU (Bootcamp)
-
-- Teacher at BEDU as JAVASCRIPT Expert, and encourage by share my knowledgment with many students
-
-## Pet Parent hub
-- Created a SPA using react + react router + formikjs to implement an admin and dynamic forms, this project let people in EEUU share their pets for adoption and rescuers can also take control of their organizations
-
-## Projects at michelada.io
+## Projects at michelada.io 3+ years
 
 ### YoTePresto (YTP) 💰
 
@@ -49,7 +63,6 @@ and developed rich and dinamic UI's for both platforms android and IOS
 
 - Levi's is a big company that sells cloth, they used to wholesale to their clients on events but its process was manual so We created a webapp to improve it, basically it allows Levis invite clients, show catalog of clothing and every client can add products to an order and finally system will check againts stock every order then confirm it or reject it. all of this were made in real-time
 
-### Internal Products Ⓜ️
 
 ### Holt
 
@@ -57,4 +70,4 @@ and developed rich and dinamic UI's for both platforms android and IOS
 
 ## Outstanding notes
 
-- I receantly created a npm package for handle forms in React (https://www.npmjs.com/package/react-useformless)
+- I published an npm package that help to handle forms using Reactjs (https://www.npmjs.com/package/react-useformless)
